@@ -2,9 +2,15 @@
   <img src="https://visitor-badge.glitch.me/badge?page_id=Moonike1217&left_color=green&right_color=red" alt="visitors" />
 </p>
 
-
-
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F79BD3&center=true&width=1000&lines=Hi%2C+I'm+Moonike!" alt="Typing SVG" /></a>
+
+<p align="left">
+Hi, I'm Moonike 🛰️ — a Software Engineering student at Nanjing University of Posts and Telecommunications 🎓, with a strong interest in backend development 🧩 and product design 🎨. I enjoy thinking from a user's perspective 🧠 and love turning ideas into real, usable products 🚀. I'm on a journey toward becoming an independent developer 🧑‍💼. <a href="https://resume.moonike.cloud/" target="_blank">Feel free to view my resume</a> 📄 — and let's connect to build meaningful software together!
+</p>
+
+<div align="center">
+  <img src="snake-dark.svg" alt="Snake animation" />
+</div>
 
 <h2 align="center">🚀 Skill Set 🚀</h2>
 
@@ -33,9 +39,7 @@
   </tr>
 </table>
 
-<div align="center">
-  <img src="https://ghchart.rshah.org/2196f3/Moonike1217" alt="GitHub chart" />
-</div>
+
 
 
 
