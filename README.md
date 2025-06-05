@@ -10,11 +10,11 @@ Hi, I'm Moonike 🛰️ — a Software Engineering student at Nanjing University
 
 <div align="center">
   <h2>🔗 About me 🔗</h2>
-  <a href="https://www.linkedin.com/in/your-linkedin-username/" target="_blank">
+  <a href="https://www.linkedin.com/in/琳-孙-6a6a96369/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:moonike17@outlook.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-%20moonike17@outlook.com-blue?style=for-the-badge&logoColor=white" alt="Email"/>
   </a>
   <a href="https://resume.moonike.cloud" target="_blank">
     <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledocs&logoColor=white" alt="Resume"/>
@@ -24,12 +24,7 @@ Hi, I'm Moonike 🛰️ — a Software Engineering student at Nanjing University
   </a>
 </div>
 
-
-
-
-
-
-<h2 align="center">🚀 Skill Set 🚀</h2>
+<br>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,kafka,nodejs,express,mysql,postgresql,redis,docker,git,react,js,ts,vercel,figma" alt="Skill Icons" />
@@ -37,24 +32,26 @@ Hi, I'm Moonike 🛰️ — a Software Engineering student at Nanjing University
 
 <h2 align="center">⚡ GitHub Stats ⚡</h2>
 
-<table align="center">
+<table align="center" style="border: none; border-collapse: collapse;">
   <tr>
-    <td align="center">
+    <td align="center" style="border: none; padding: 0;">
       <img
         src="https://github-readme-stats.vercel.app/api?username=Moonike1217&show_icons=true&theme=tokyonight"
         alt="GitHub Stats"
-        width="420"
+        height="180"
       />
     </td>
-    <td align="center">
+    <td align="center" style="border: none; padding: 0;">
       <img
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moonike1217&layout=compact&theme=tokyonight"
         alt="Top Languages"
-        width="300"
+        height="180"
       />
     </td>
   </tr>
 </table>
+
+
 <div align="center">
   <img src="snake-dark.svg" alt="Snake animation" />
 </div>
